@@ -20,9 +20,10 @@ This project involves developing a set of functions in **RISC-V Assembly** to pe
 * [**/docs**](./docs) - Original assignment and technical report (in Portuguese).
 * [**/assets**](./assets) - Input and output images used for testing.
 
-# Visual Results
+## Visual Results
 ![Before](./assets/cat_noisy.png)
 ![After](./assets/cat_noisy_mediana.png)
 
+[⬅️ **Back to My Learning Journey**](https://github.com/BroteusSKTP/BroteusSKTP/blob/main/LearningLabs.md)
 ---
 *Note: The original assignment and detailed technical report (in Portuguese) can be found in the `/docs` folder.*
