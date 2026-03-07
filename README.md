@@ -26,6 +26,7 @@ This project implements a set of **RISC-V Assembly** routines to perform noise r
 
 ## Important Notes
 - The original assignment and detailed technical report (in Portuguese) are available in the `/docs` folder.
+- Names were removed and redacted from documents to maintain privacy and confidentiality.
 - Documentation wording and repository-structure organization were refined with AI assistants (GitHub Copilot and Google Gemini). All AI-generated outputs were critically reviewed and validated to ensure technical accuracy and content integrity.
 
 ## Visual Results
